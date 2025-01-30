@@ -1,4 +1,4 @@
- 
+ press a (spacebar) to move caracter up, otherwise the character moves down!
 
 
 > Open this page at [https://gongitygongitygong.github.io/geometry-dash-wave-mode-remake/](https://gongitygongitygong.github.io/geometry-dash-wave-mode-remake/)
